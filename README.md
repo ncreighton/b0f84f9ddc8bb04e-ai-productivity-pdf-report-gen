@@ -1,2 +1,25 @@
-# b0f84f9ddc8bb04e-ai-productivity-pdf-report-gen
-A comprehensive pdf report generation and branding template designed specifically for the ai productivity industry.
+# Ai Productivity PDF Report Generation and Branding Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe4gzdPp1g02hi0VecZe1D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe4gzdPp1g02hi0VecZe1D)
+
